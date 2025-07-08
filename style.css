@@ -143,6 +143,7 @@ button:hover{
 }
 
 /* -- Section 4 -- */
+
 .sign-up{
     display: flex;
     justify-content: space-between;
@@ -156,7 +157,7 @@ button:hover{
 }
 
 .signup-text{
-    font-family:'Roboto', sans-serif;;
+    font-family:'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
     color: #FEFAE0;
@@ -180,4 +181,13 @@ button:hover{
     width: 220px;
 }
 
-
+/* -- Section 5 -- */
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #606C38;
+    color: #DDA15E;
+    font-family: 'Roboto', sans-serif;
+    width:100%;
+    flex: auto;
+}
